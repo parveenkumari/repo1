@@ -1,0 +1,11 @@
+ Volume in drive C has no label.
+ Volume Serial Number is D618-03EA
+
+ Directory of C:\Users\parveen\Desktop\Myproject
+
+14-05-2018  01:10    <DIR>          .
+14-05-2018  01:10    <DIR>          ..
+14-05-2018  01:10                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)   8,135,888,896 bytes free
+p
